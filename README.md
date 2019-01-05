@@ -10,7 +10,7 @@
 ### Example output
 
 ```
-mzhao➜~/dev/rist(master✗)» target/release/rist                                                                                             [1:04:36]
+$ target/release/rist
 server: www.rogers.com
 packet_size: 1500 data bytes per ping
 pings: 50
